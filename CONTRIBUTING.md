@@ -1,11 +1,8 @@
 ## Overview
 
 First, familiarize yourself with the project by reading the
-[home page](http://code.timvideos.us/home). Then follow its links
-to the [ideas page](http://code.timvideos.us/Ideas.html) for a list of projects
-for general contributors and to the Google Summer of Code
-[page](http://code.timvideos.us/Summer-Of-Code.html)
-for GSoC students.
+[home page](https://code.timvideos.us/home). The [Project matching table](https://code.timvideos.us/contribute-diagram/) can help with deciding on a project to get started it. 
+You may also contribute as part of [Google Summer of Code](https://code.timvideos.us/summer-of-code/).
 
 Communication happens on the [#timvideos](irc://irc.freenode.org/#timvideos) irc channel and
 mailing lists.
