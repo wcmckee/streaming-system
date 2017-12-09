@@ -1,7 +1,7 @@
 ## Overview
 
 First, familiarize yourself with the project by reading the
-[home page](http://code.timvideos.us/Home.html). Then follow its links
+[home page](http://code.timvideos.us/home). Then follow its links
 to the [ideas page](http://code.timvideos.us/Ideas.html) for a list of projects
 for general contributors and to the Google Summer of Code
 [page](http://code.timvideos.us/Summer-Of-Code.html)
